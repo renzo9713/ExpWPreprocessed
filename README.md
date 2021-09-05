@@ -1,7 +1,7 @@
 # Dataset ExpW cropped and sorted 
 
 
-Dataset ExpW with cropped images (48x48) and sorted by emotions 6 (anger, disgust, fear, happy, sadness and surprise) and also neutral.
+Dataset ExpW with cropped images (48x48) and sorted by 6 emotions (anger, disgust, fear, happy, sadness and surprise) and neutral.
 
 Link: https://drive.google.com/file/d/1MMZc5UGq8d0YTzSbG200D3hpOIeiV67x/view?usp=sharing
 
